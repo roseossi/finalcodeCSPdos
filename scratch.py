@@ -1,1 +1,2 @@
 #my scratch
+print("hello")
